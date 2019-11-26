@@ -4,13 +4,15 @@ title: /about
 permalink: /about/
 ---
 
-# Hi there.
+# About.
 
 <br />I made this, for me. It's a place to consolidate my thoughts and record my ideas and experiences. It's possible that someone might benefit from reading it so I made it public, though I don’t intent do promote it.
 
-<br />My writings are mostly about my work, I own a small product consultancy called Codetermine. Previously I've worked for software service companies in commercial roles. That has given me an interesting line of site to the corporate mire, I get to marvel at technical and commercial 'decisions' at companies large and small. 
+<br />Writings are mostly about my work. I own a small product consultancy that helps start-ups to not throw other peoples money down the drain by helping them make smarter product decission. It's a bit like running a crèche but the nappy changing is *mostly* metophorical.
 
 <br />I see a lot of clever start-ups and lot of bat shit crazy ones too, so I like to write about thoughtful approaches to the product development process.
+
+<br />I've previously worked for software service companies whose specialisms range from amazing deep tech (embedded linux) to much less impressive mobile apps and websites. I've always worked in a commercial role and that has given me interesting line of sight to the corporate mire; I get to marvel at technical and commercial *decisions* at companies large and small. 
 
 <br />Motorcyles are a passion of mine so, from time to time, I may use this site to post a motorcycle journey video or 20.
 
@@ -20,7 +22,9 @@ permalink: /about/
 
 <br />The source code is found on GitHub, here: https://github.com/b2a3e8/jekyll-theme-console
 
-<br />This site has no tracking cookies. None. Nada. You're welcome. It's currently hosted via Github Pages, but I will move it to a custom URL soon.
+<br />This site has no tracking cookies. None. Nada. You're welcome. 
+
+<br />It's currently hosted via Github Pages but I will move it to a custom URL soon.
 
 ## What is jekyll? 
 
