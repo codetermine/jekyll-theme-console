@@ -2,6 +2,7 @@
 layout: post
 title:  "Agreeable Rebels Always Win"
 date:   2019-03-07 12:32:45 +0100
+permalink: /testing/
 categories:
 ---
 
