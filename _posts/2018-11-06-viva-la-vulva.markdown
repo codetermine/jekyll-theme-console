@@ -2,6 +2,7 @@
 layout: post
 title:  "I have a new motorbike"
 date:   2019-11-24 12:32:45 +0100
+permalink: /i-have-a-new-motorbike/
 categories:
 ---
 
