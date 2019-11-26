@@ -9,6 +9,7 @@ header_pages:
   - about.md
   - motorbikes.md
   - contact.md 
+  - product-development.md
 
 style: dark
 
