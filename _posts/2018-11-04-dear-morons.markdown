@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Agreeable Rebels Always Win"
-date:   2018-11-04 12:32:45 +0100
+date:   2019-03-07 12:32:45 +0100
 categories:
 ---
 
