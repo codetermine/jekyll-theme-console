@@ -1,7 +1,7 @@
 ---
-title: /motorbikes
+title: /Motorbike Stuff
 layout: default
-permalink: /motorbikes/
+permalink: /Motorbikes Stuff/
 ---
 
 # Motorcycle Videos
