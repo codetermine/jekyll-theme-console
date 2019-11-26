@@ -14,16 +14,4 @@ permalink: /about/
 
 <br />I meet with a lot of clever start-ups and lot of bat shit crazy ones too, so I like to write about thoughtful approaches to the product development process. I've previously worked for software service companies whose specialisms range from amazing deep tech (embedded linux) to much less impressive mobile apps and websites. I've always worked in a commercial role and that has given me interesting line of sight to the corporate mire; I get to marvel at technical and commercial *decisions* at companies large and small.
 
-<br />Thanks for visiting. Feel free to contact me if you find anything here remotely interesting. Also note that this site has no tracking cookies. None. Nada. You're welcome. 
-
-## How did you make this thing ?
-
-<br />If you'd like to create a similar 'blog' you can fork the Jekyll repo below, as I did. 
-The source code is found on GitHub, here: https://github.com/b2a3e8/jekyll-theme-console
-It's currently hosted via Github Pages but I will move it to a custom URL soon.
-
-### What is jekyll? 
-
-<br />Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+<br />Thanks for visiting. Feel free to contact me if you find anything here remotely interesting. Also note that this site has no tracking cookies. None. Nada. You're welcome.
