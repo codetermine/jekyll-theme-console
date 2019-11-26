@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "I have a new motorbike"
+title:  "New Motorbike! Honda CB300R"
 date:   2019-11-24 12:32:45 +0100
-permalink: /i-have-a-new-motorbike/
+permalink: /New Motorbike! Honda CB300R/
 categories:
 ---
 
