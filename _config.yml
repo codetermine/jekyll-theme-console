@@ -6,11 +6,11 @@ url: "https://b2a3e8.github.io"
 header_pages:
 
   - index.md
-  - about.md
-  - motorbikes.md
-  - contact.md 
   - product-development.md
-
+  - motorbikes.md
+  - about.md
+  - contact.md 
+  
 style: dark
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
