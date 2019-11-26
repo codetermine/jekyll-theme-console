@@ -6,9 +6,9 @@ url: "https://b2a3e8.github.io"
 header_pages:
 
   - index.md
-  - motorbikes.md
   - about.md
-  - contact.md
+  - motorbikes.md
+  - contact.md 
 
 style: dark
 
