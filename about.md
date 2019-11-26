@@ -8,7 +8,7 @@ permalink: /about/
 
 <br />I made this, for me.
 
-<br />It's a place to consolidate my thoughts and record my ideas and experiences. It's possible that someone might benefit from reading it so I made it public, though I don’t intent do promote it. So little of our accrued experiences are properly documented, I think it’s healthy, cathartic and meaningful to write about your life, and to articulate your ideas. You will benefit from it, even if no one else does.
+<br />It's a place to consolidate my thoughts and record my ideas and experiences. It's possible that someone might benefit from reading it so I made it public, though I don’t intent to promote it. So little of our accrued experiences are properly documented, I think it’s healthy, cathartic and meaningful to write about your life, and to articulate your ideas. You will benefit from it, even if no one else does.
 
 <br />Writings are mostly about my work, my motorbike habit, and to a lesser extent some topical ramblings. I own a small product consultancy that helps start-ups to not throw other peoples money down the drain by helping them make smarter product decissions. It's a bit like running a crèche but the nappy changing is *mostly* metophorical.
 
