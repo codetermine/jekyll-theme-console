@@ -1,7 +1,7 @@
 ---
 title: home
 layout: home
-permalink: /Home/
+permalink: /home/
 ---
 # Welcome to *Visceral Screaming* - It's basically just my diary.
 
