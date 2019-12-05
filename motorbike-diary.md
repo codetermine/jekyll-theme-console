@@ -1,6 +1,6 @@
 ---
 title: /Motorbike Diary
-layout: default
+layout: home
 permalink: /Motorbike Diary/
 ---
 
