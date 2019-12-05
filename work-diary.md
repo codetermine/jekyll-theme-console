@@ -1,7 +1,7 @@
 ---
-title: /Product Development
+title: /Work Diary
 layout: default
-permalink: /Product Development/
+permalink: /Work Diary/
 ---
 
 # Product Development
