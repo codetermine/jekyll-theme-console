@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 permalink: /home/
 ---
 # ANOTHER DAY OUT | LIFE & WORK ETC.
